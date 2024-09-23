@@ -21,3 +21,5 @@ finally:
     if (sqlite_connection):
         sqlite_connection.close()
         print("Соединение с SQLite закрыто")
+
+#testing commit
