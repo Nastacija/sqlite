@@ -1,5 +1,3 @@
-import sqlite3
-
 sql_drop = """
 DROP TABLE IF EXISTS filenames;
 DROP TABLE IF EXISTS intonation_units;
